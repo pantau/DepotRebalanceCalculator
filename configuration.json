@@ -1,0 +1,13 @@
+{
+  "funds": [],
+  "certificates": [],
+  "stocks": [],
+  "bonds": [],
+  "etfs": [
+    {
+      "pieces": 2,
+      "targetPercentage": 34,
+      "WKN": "123123"
+    }
+  ]
+}
