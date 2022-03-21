@@ -1,13 +1,7 @@
 {
-  "funds": [],
-  "certificates": [],
   "stocks": [],
+  "certificates": [],
+  "etfs": [],
   "bonds": [],
-  "etfs": [
-    {
-      "pieces": 2,
-      "targetPercentage": 34,
-      "WKN": "123123"
-    }
-  ]
+  "funds": []
 }
